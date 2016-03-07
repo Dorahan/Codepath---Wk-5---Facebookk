@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Facebook.xcodeproj">
+      location = "self:/Users/dorahan/Downloads/Facebook/Facebookk.xcodeproj">
    </FileRef>
 </Workspace>
